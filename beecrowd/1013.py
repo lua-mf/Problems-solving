@@ -1,4 +1,4 @@
-# split divide o input(uma string) através dos espaços 
+# split divide o input(uma string) através dos espaços, tranformando em uma lista de strings 
 # map aplica a função int em cada elemento 
 a, b, c = map(int, input().split()) 
 
